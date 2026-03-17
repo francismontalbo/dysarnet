@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ScholarlyArticle",
+      "name": "DySARNet: A Densely Squeezed-and-Excited Attention-Gated Residual Deep Learning Model for Dysarthric Speech Recognition and Severity Estimation",
+      "identifier": "https://doi.org/10.1007/s11042-024-20053-w",
+      "url": "https://link.springer.com/article/10.1007/s11042-024-20053-w",
+      "sameAs": [
+        "https://doi.org/10.1007/s11042-024-20053-w",
+        "https://www.researchgate.net/publication/370642281_Dysarnet_A_Densely_Squeezed-and-Excited_Attention-Gated_Residual_Deep_Learning_Model_for_Dysarthric_Speech_Recognition_and_Severity_Estimation"
+      ],
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Francis Jesmar P. Montalbo",
+          "affiliation": {
+            "@type": "Organization",
+            "name": "Batangas State University"
+          }
+        }
+      ],
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "Multimedia Tools and Applications"
+      },
+      "keywords": [
+        "dysarthric speech recognition",
+        "dysarthria severity estimation",
+        "deep learning",
+        "attention-gated residual network",
+        "squeeze-and-excitation",
+        "healthcare AI"
+      ]
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "DySARNet Repository",
+      "programmingLanguage": "Python",
+      "description": "Reproducibility and experimentation repository for DySARNet.",
+      "citation": "https://doi.org/10.1007/s11042-024-20053-w"
+    }
+  ]
+}

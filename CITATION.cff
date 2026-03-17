@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "DySARNet: Densely Squeezed-and-Excited Attention-Gated Residual Network for Dysarthric Speech Recognition and Severity Estimation"
+message: "If you use this repository, please cite the associated journal article and repository metadata."
+type: software
+authors:
+  - family-names: "Montalbo"
+    given-names: "Francis Jesmar P."
+affiliation: "Batangas State University, Philippines"
+url: "https://doi.org/10.1007/s11042-024-20053-w"
+identifiers:
+  - type: doi
+    value: "10.1007/s11042-024-20053-w"
+preferred-citation:
+  type: article
+  title: "DySARNet: A Densely Squeezed-and-Excited Attention-Gated Residual Deep Learning Model for Dysarthric Speech Recognition and Severity Estimation"
+  authors:
+    - family-names: "Montalbo"
+      given-names: "Francis Jesmar P."
+  doi: "10.1007/s11042-024-20053-w"
+  journal: "Multimedia Tools and Applications"
